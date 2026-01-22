@@ -1,10 +1,15 @@
+
+
+
+
 Calendário do Santo Daime
 
-Projeto desenvolvido para reunir e organizar todas as datas, aniversários e eventos importantes do calendário do Santo Daime.
+Projeto religioso desenvolvido para reunir e organizar todas as datas, aniversários e eventos importantes do calendário do Santo Daime.
 
-O sistema exibe informações detalhadas sobre os dias importantes, incluindo links para hinários digitais e gravações oficiais.
+O aplicativo exibe informações sobre os dias celebrativos, além de links para hinários digitais e gravações oficiais.
 
 Funcionalidades
+
 Calendário com datas e aniversários importantes
 
 Informações sobre celebrações e eventos
@@ -15,13 +20,13 @@ Links para gravações oficiais
 
 Tecnologias utilizadas
 
-JavaScript
+Expo
 
-React Native
+create-expo-app
 
 Observação
 
-Projeto desenvolvido para fins informativos e organizacionais.
+Projeto religioso desenvolvido para fins informativos e organizacionais.
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
